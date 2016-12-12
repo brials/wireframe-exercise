@@ -18,8 +18,8 @@ nav{
   text-align: center;
   text-decoration: none;
   color: #888;
-  transition: background .35s;
-  transition: color .35s
+  background: #444;
+  transition: .35s;
 }
 .inner li:hover{
   background: black;
